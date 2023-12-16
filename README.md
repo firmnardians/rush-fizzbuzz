@@ -1,0 +1,1 @@
+FizzBuzz adalah permainan kata berkelompok untuk anak-anak untuk mengajari mereka tentang pembagian. Pemain bergiliran menghitung secara bertahap, mengganti bilangan apa pun yang habis dibagi tiga dengan kata "Fizz", dan bilangan apa pun yang habis dibagi lima dengan kata "Buzz", dan bilangan apa pun yang habis dibagi tiga dan lima dengan kata "fizzBuzz".
